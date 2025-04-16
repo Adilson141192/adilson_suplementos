@@ -9,7 +9,7 @@ header, body, footer {
     text-decoration: none;
 }
 
-header img {
+header img, .itensImg {
     display: block;
     width: 360px;
     margin: auto;
@@ -91,12 +91,4 @@ footer p {
 
 footer img {
     width: 20px;
-}
-
-@media screen and (min-width: 620px) {
-    
-}
-
-@media screen and (min-width: 960px) {
-    
 }
