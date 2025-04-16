@@ -1,4 +1,78 @@
+:root {
+    --primary: #001f2e;
+    --secondary: #13d3d6;
+}
 
+header, body, footer {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+header img {
+    width: 480px;
+}
+
+header h1 {
+    font-size: 50px;
+    color: var(--primary);
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
+
+body {
+    background-color: var(--secondary);
+}
+
+body a {
+    text-decoration: none;
+}
+
+body a:hover {
+    color: var(--secondary);
+    transition: 0.2s;
+}
+
+.promo {
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    background: none;
+    color: var(--primary);
+    margin: 20px;
+    padding: 6px 12px;
+    border-radius: 20px;
+    border: 2px solid var(--primary);
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.6);
+}
+
+.promo:hover {
+    font-weight: bolder;
+    font-size: 35px;
+    background: var(--primary);
+    transition: 0.8s;
+}
+
+.itens {
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    background: none;
+    color: var(--primary);
+    margin: 20px;
+    padding: 6px 12px;
+    border-radius: 20px;
+    border: 2px solid var(--primary);
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.6);
+}
+
+.itens:hover {
+    font-weight: bolder;
+    font-size: 35px;
+    background: var(--primary);
+    transition: 0.8s;
+}
 
 @media screen and (min-width: 620px) {
     
