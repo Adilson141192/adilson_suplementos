@@ -17,7 +17,7 @@ header img {
 }
 
 header h1 {
-    font-size: 50px;
+    font-size: 45px;
     color: var(--primary);
     text-transform: uppercase;
     text-align: center;
@@ -48,7 +48,7 @@ body a:hover {
     padding: 6px 12px;
     border-radius: 20px;
     border: 2px solid var(--secondary);
-    box-shadow: 3px 3px 3px rgba(0,0,0,0.6);
+    box-shadow: 1px 1px 10px 5px rgba(0, 0, 0, 0.6);
 }
 
 .promo:hover {
@@ -81,6 +81,7 @@ body a:hover {
 }
 
 footer {
+    display: block;
     text-align: center;
 }
 
