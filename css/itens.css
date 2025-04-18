@@ -30,10 +30,12 @@ body p {
 
 #seta {
     text-align: center;
+    font-weight: bold;
     color: var(--primary);
     font-size: 20px;
 }
 
 #pe {
     text-align: center;
+    font-size: 12px;
 }
