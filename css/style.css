@@ -11,7 +11,7 @@ header, body, footer {
 
 header img, .itensImg {
     display: block;
-    width: 240px;
+    width: 300px;
     margin: auto;
     padding: 20px 0px;
 }
