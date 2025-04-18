@@ -13,6 +13,13 @@ body p {
     padding: 5px;
 }
 
+.itensImg {
+    display: block;
+    width: 300px;
+    margin: auto;
+    padding: 20px 0px;
+}
+
 .quero, .itensTitulo{
     border-radius: 20px;
     border: 2px solid var(--secondary);
@@ -33,9 +40,4 @@ body p {
     font-weight: bold;
     color: var(--primary);
     font-size: 20px;
-}
-
-#pe {
-    text-align: center;
-    font-size: 12px;
 }
