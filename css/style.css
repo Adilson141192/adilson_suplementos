@@ -29,7 +29,8 @@ body {
     background-color: white;
 }
 
-body h2 {
+body h3 {
+    color: var(--primary);
     text-align: center;
     padding: 10px;
     margin: 10px;
