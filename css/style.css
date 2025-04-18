@@ -9,7 +9,7 @@ header, body, footer {
     text-decoration: none;
 }
 
-header img, .itensImg {
+header img, .itensImg{
     display: block;
     width: 300px;
     margin: auto;
