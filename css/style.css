@@ -11,7 +11,7 @@ header, body, footer {
 
 header img, .itensImg {
     display: block;
-    width: 300px;
+    width: 240px;
     margin: auto;
     padding: 20px 0px;
 }
@@ -29,7 +29,7 @@ body {
     background-color: white;
 }
 
-body h3 {
+#sub {
     color: var(--primary);
     text-align: center;
     padding: 10px;
