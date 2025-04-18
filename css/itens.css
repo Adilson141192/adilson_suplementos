@@ -33,3 +33,7 @@ body p {
     color: var(--primary);
     font-size: 40px;
 }
+
+#pe {
+    text-align: center;
+}
