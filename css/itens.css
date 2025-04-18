@@ -25,7 +25,7 @@ body p {
     border: 2px solid var(--secondary);
     box-shadow: 1px 1px 15px 3px rgba(19,211,214, 0.6);
     padding: 10px;
-    margin: 5px 100px;
+    margin: 5px 80px;
 }
 
 .quero:hover {
