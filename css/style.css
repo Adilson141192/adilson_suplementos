@@ -40,6 +40,7 @@ body a:hover {
 
 .promo {
     font-size: 25px;
+    font-weight: bolder;
     text-align: center;
     text-transform: uppercase;
     background: none;
@@ -83,9 +84,8 @@ body a:hover {
 footer {
     display: block;
     text-align: center;
-}
-
-footer p {
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
     font-weight: bold;
 }
 
