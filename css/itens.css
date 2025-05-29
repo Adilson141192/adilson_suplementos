@@ -28,13 +28,6 @@ body p {
     margin: 5px 80px;
 }
 
-.quero:hover {
-    font-weight: bolder;
-    border: var(--primary);
-    background: var(--secondary);
-    transition: 0.8s;
-}
-
 #seta {
     text-align: center;
     font-weight: bold;

@@ -61,14 +61,6 @@ body a:hover {
     box-shadow: 1px 1px 15px 3px rgba(19,211,214, 0.6);
 }
 
-.promo:hover {
-    font-weight: bolder;
-    font-size: 35px;
-    border: var(--primary);
-    background: var(--secondary);
-    transition: 0.8s;
-}
-
 .itens {
     font-size: 20px;
     text-align: center;
@@ -80,14 +72,6 @@ body a:hover {
     border-radius: 20px;
     border: 2px solid var(--secondary);
     box-shadow: 1px 1px 15px 3px rgba(19,211,214, 0.6);
-}
-
-.itens:hover {
-    font-weight: bolder;
-    font-size: 35px;
-    border: var(--primary);
-    background: var(--secondary);
-    transition: 0.8s;
 }
 
 footer {
